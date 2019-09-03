@@ -41,5 +41,5 @@ The Code script for this project can be found in the file "Codescript.txt". It e
 # How to run the project?
 
 1. Set your working directory in R to where these project files are using the setwd() function
-2. Run the code contained in the file "run_analysis.R" to make the analysis
+2. Run the code contained in the file "run_analysis.R" to make the analysis, this is the Code script for this project and it explains the transformations performed and the resulting data and variables in detail.
 3. Step 3 will generate a file called tiny_data.txt 
