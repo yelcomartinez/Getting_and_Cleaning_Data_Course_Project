@@ -1,5 +1,10 @@
 # Getting_and_Cleaning_Data_Course_Project
+
+# Assigment
+
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
+
+# Data
 
 A full description is available at the site where the data was obtained:
 
@@ -29,6 +34,12 @@ e) Appropriately labels the data set with descriptive variable names.
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# Code script -> run_analysis.R
+# Code script
 
-# Output -> data_tidy
+The Code script for this project can be found in the file "Codescript.txt". It explains the transformations performed and the resulting data and variables in detail.
+
+# How to run the project?
+
+1. Set your working directory in R to where these project files are using the setwd() function
+2. Run the code contained in the file "run_analysis.R" to make the analysis
+3. Step 3 will generate a file called tiny_data.txt 
